@@ -1,0 +1,386 @@
+baselink = "https://www.yogahoasen.click"
+metaDataFormat = "yaml"
+title = "Yoga Hoa Sen"
+theme = "blist"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
+
+enableEmoji = true
+paginate = 12
+
+[languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+
+    [[languages.en.menu.main]]
+        name = "Yoga"
+        url = "yoga"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "News"
+        url = "news"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Schedule"
+        url = "schedule"
+        weight = 16
+
+
+    [[languages.en.menu.main]]
+        name = "Products"
+        url = "products"
+        weight = 17
+
+    [[languages.en.menu.main]]
+        name = "Recipes"
+        url = "recipes"
+        weight = 21
+
+    [[languages.en.menu.main]]
+        name = "Centers"
+        url = "centers"
+        weight = 23
+
+    [[languages.en.menu.main]]
+        name = "FAQ"
+        url = "faq"
+        weight = 26
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "company"
+        weight = 28
+
+    [languages.en.params]
+      main = "Enhancing Spirituality"
+      sub = "Yoga Hoa Sen is a Tantric yoga system from India that promotes spirituality and holistic health"
+      banner = "/photos/holdhands.jpg"
+      wow = "Improving Health"
+      # youtube = "45qD4uhPMI4"
+      # youtube = "326hI7UPX4"
+      youtube = "IUhCHkmTabU"
+
+    [languages.en.params.cta]
+      title = ""
+    [languages.en.params.cta.buttons.a]
+      link = "https://hub.pantrypoints.com/signup"
+      text = "Register in the Waitlist"
+      color = ""
+    [languages.en.params.cta.buttons.b]
+      link = "https://www.anandamarga.org/ideology/self-realization/yoga-asanas/"
+      text = "Check out the science"
+      color = ""
+
+    [languages.en.params.req]
+      title = "Service to Humanity and Self Realization. (PR Sarkar)"
+      avatar = "/avatars/sarkar.jpg"
+
+    [languages.en.params.tricon1]
+      title = "The Hoa Sen System of Yoga"
+      sub = "Our holistic system of yoga combines spirituality with healthy practices and social service"
+    [languages.en.params.tricon1.items.a]
+      # link = "/trisactions/invesure/"
+      img= "/icons/book.png"
+      title = "1: Spirituality"
+      sub = "We advance spirituality through Tantra Yoga and Neohumanism"
+    [languages.en.params.tricon1.items.b]
+      # link = "/trisactions/banking"
+      img = "/icons/apple.png"
+      title = "2: Health"
+      sub = "We promote good holistic health through yoga asanas and healthy eating"
+    [languages.en.params.tricon1.items.c]
+      # link = "/services/coins/"
+      img = "/icons/question.png"
+      title = "3: Service"
+      sub = "We help people in society with disaster relief through AMURT and PROUT"
+    # [languages.en.params.tricon1.items.d]
+    #   link = "/services/coins/"
+    #   img = "/icons/eth.png"
+    #   title = "4: Society"
+    #   sub = "We have regular gatherings to maintain our spirituality, health, and service"
+
+
+    # [languages.en.params.feedback]
+    #   title = "What Experts Say"
+    # [languages.en.params.feedback.items.a]
+    #   img = "/avatars/dhanjoo.jpg"
+    #   sub = "Prof. Dhanjoo Ghista, University 2020 Foundation President"
+    #   title = "I very much like this work: A Research Proposal For The Formalization Of The Science Of Supereconomics And The Establishment Of A Points-Based Economic System"
+    #   link = "http://www.dhanjooghista.com/"
+    # [languages.en.params.feedback.items.b]
+    #   img = "/avatars/gavin.jpg"
+    #   title = "I believe it is developing into a worthwhile project"
+    #   sub = "Prof. Gavin Kennedy, a world expert on Adam Smith"
+    #   link = "http://adamsmithslostlegacy.blogspot.com"
+
+
+    [languages.en.params.tricon3]
+      title = "Locations"
+      sub = "Here are affiliated yoga centers."
+    [languages.en.params.tricon3.items.a]
+      img = "/flags/vn.png"
+      title = "Yoga Hoa Sen"
+      sub = "34 Phan Liêm, Phường Đa Kao, Quận 1 <br><i>Đt: 3820 3457 – Cô Châu: 0918 873 316</i>"
+    [languages.en.params.tricon3.items.b]
+      img = "/flags/vn.png"
+      title = "Viện Y Học Dược Dân Tộc"
+      sub = "273 Nguyễn Văn Trỗi, Quận Phú Nhuận <br><i>Cô Tám: 3820 1196, Cô Khanh: 0903 004 984, Thầy Khang: 0913 684 963</i>"
+      
+
+    [languages.en.params.how]
+      title = "How it Works"
+      # sub = "The Inca made a large scale points-based economic system using strings for points. The Spanish destroyed it and replaced it with the current crisis-prone money-based system."
+      banner = "/photos/inca.jpg"
+    [languages.en.params.how.steps.a]
+      img = "/photos/call.jpg"
+      title = "Call or message us for yoga or meditation classes"
+      id = 1
+    [languages.en.params.how.steps.b]
+      img = "/photos/sched.jpg"
+      title = "Set a schedule with our instructors"
+      id = 2
+    [languages.en.params.how.steps.c]
+      img = "/photos/yoga.jpg"
+      title = "Attend a trial class to see our system for yourself"
+      id = 3
+
+
+  [languages.vi]
+    contentDir = "content/vi"
+    weight = 3
+    languageName = "Tieng Viet"
+    # [[languages.vi.menu.main]]
+    #     name = "Trisactions"
+    #     url  = "trisactions"
+    #     weight = 1
+    [[languages.vi.menu.main]]
+        name = "FAQs"
+        url = "faq"
+        weight = 8
+
+    [languages.vi.params]
+      main = "Thăng Hoa Tâm Linh"
+      sub = "Hệ thống Yoga từ Ấn Độ giúp nâng cao tinh thần và sức khỏe toàn diện"
+      banner = "/photos/holdhands.jpg"
+      wow = "Cải Thiện Sức Khỏe"
+      # youtube = "fC9dH2Du0sM"
+
+
+# Thăng Hoa Tâm Linh: This translates to "Enhancing Spirituality" and captures the essence of elevating one's spiritual connection.
+
+# Cải Thiện Sức Khỏe: This translates to "Improving Health" and is a clear and concise way to convey the health benefits.
+
+    # [languages.vi.params.cta]
+    #   title = ""
+    # [languages.vi.params.cta.buttons.a]
+    #   link = "https://hub.pantrypoints.com/signup"
+    #   text = "请在等候名单上注册"
+    # [languages.vi.params.cta.buttons.b]
+    #   link = "https://www.superphysics.org/social/economics"
+    #   text = "阅读有关这个理论的内容"
+
+    # [languages.vi.params.req]
+    #   title = "对于对货币一无所知的蒙古人来说，一头牛是价值的衡量标准。对他们来说，财富是以牛的数量来衡量，就像西班牙人以黄金和白银的数量来衡量财富一样。蒙古观念是正确的。（亚当·斯密）"
+    #   avatar = "/avatars/smith.png"
+
+    # [languages.vi.params.tricon1]
+    #   title = "介绍Tri-sactions（三交易）"
+    #   sub = "Tri-sactions允许在任何社会条件下进行货币、无货币或元宇宙交易，以实现真正的经济自由"
+    # [languages.vi.params.tricon1.items.a]
+    #   img= "/icons/moneyno.png"
+    #   title = "1: 没钱"
+    #   sub = "无货币交易采用储值置换方式，以点数来度量，这些点数与谷物挂钩。 这实现了亚当·斯密在《国富论》 中提到的以谷物为基础的估值方式"
+    # [languages.vi.params.tricon1.items.b]
+    #   img = "/icons/money.png"
+    #   title = "2: 钱"
+    #   sub = "货币交易使用“货币点数”，可以通过现金或无现金银行应用程序来支付无货币交易，适用于法定经济"
+    # [languages.vi.params.tricon1.items.c]
+    #   img = "/icons/eth.png"
+    #   title = "3: 元宇宙"
+    #   sub = "元宇宙交易则可以将点数转换为“Pantry Coins”，从而通过以太坊来进行受监管的元宇宙交易。 这对于跨境交易以及我们提出的“加密缓解”（我们替代量化宽松政策）非常有用"
+
+
+    # [languages.vi.params.tricon2]
+    #   title = "你的角色是什么？"
+    #   sub = "Pantrypoints 面向所有人"
+
+    # [languages.vi.params.tricon2.items.a]
+    #   link = "/services/build/"
+    #   img= "/icons/shop.png"
+    #   title = "我是一位微小企业主"
+    #   sub = "我需要在线存在，如网站、Web 应用、移动应用或社交媒体"
+    # [languages.vi.params.tricon2.items.b]
+    #   link = "https://circle.pantrypoints.com/"
+    #   img = "/icons/jobless.png"
+    #   title = "我是失业者"
+    #   sub = "我需要找工作，但没有所需的技能"
+    # [languages.vi.params.tricon2.items.c]
+    #   link = "/pantrypreneur/educate"
+    #   img= "/icons/teacher.png"
+    #   title = "我是一名教师"
+    #   sub = "我需要点名并可视化学生数据"
+    # [languages.vi.params.tricon2.items.d]
+    #   link = "trisactions/health/"
+    #   img= "/icons/apple.png"
+    #   title = "我注重健康"
+    #   sub = "医疗费用昂贵，所以我需要合理饮食"
+    # [languages.vi.params.tricon2.items.f]
+    #   link = "/trisactions/invesure/"
+    #   img= "/icons/investor.png"
+    #   title = "我是一名投资者"
+    #   sub = "我希望我的投资产生很大的影响"
+    # [languages.vi.params.tricon2.items.g]
+    #   link = "trisactions/banking"
+    #   img = "/icons/banker.png"
+    #   title = "我是一名银行家"
+    #   sub = "我需要解决银行危机的方案。压力太大了"
+    # [languages.vi.params.tricon2.items.h]
+    #   link = "/pantrypreneur/farm/"
+    #   img = "/icons/farmer.png"
+    #   title = "我是一名农民"
+    #   sub = "我需要解决全球变暖的方案！"
+    # [languages.vi.params.tricon2.items.i]
+    #   link = "/services/tax"
+    #   img = "/icons/gov.png"
+    #   title = "我在政府工作"
+    #   sub = "我们需要为公共服务赚取更多收入"
+
+
+    # [languages.vi.params.inca]
+    #   title = "最初由印加人建造"
+    #   sub = "印加人使用绳子制定了一个大规模的基于积分的经济体系。西班牙人摧毁了它，并用当前容易陷入危机的基于货币的体系取而代之"
+    #   banner = "/photos/inca.jpg"
+    #   link = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-5872764"
+    #   linktext = "阅读印加体系的运作方式"
+
+    # [languages.vi.params.how]
+    #   title = "工作原理如下"
+    #   sub = ""
+    # [languages.vi.params.how.steps.a]
+    #   img = "/screens/pantryshow.jpg"
+    #   title = "使用点数价格而不是货币价格发布您的物品"
+    #   id = 1
+    # [languages.vi.params.how.steps.b]
+    #   img = "/photos/shake.jpg"
+    #   title = "与买家会面"
+    #   id = 2
+    # [languages.vi.params.how.steps.c]
+    #   img = "/screens/pay.jpg"
+    #   title = "用点数付款"
+    #   id = 3
+
+
+[params]
+  logo = "/icons/hoasen.png"
+  
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+
+  # Enable search in header
+  enableSearch = true
+
+  # Option to customize the search parameters of a page
+  # Below are the supported options; Note that including entire content
+  # may slowdown the loading of search results
+  # Title of page is included by default
+  # searchKeys = [
+  #   "title",
+  #   "link",
+  #   "description"
+  # ]
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2024 | <a href='/company/'>Yoga Hoa Sen</a> | Built by <a href='https://www.pantrypoints.com'>Pantrypoints</a>"
+  favimg = "/icons/pantry50.png"
+
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = false
+
+  # To hide "Other languages" option if the post is available in multiple languages
+  # Can be used at site level or page level
+  hideOtherLanguages = false
+
+  # Add support for Table of contents
+  # Can be added to a page level also in markdown frontmatter
+  toc = true
+
+  hidePageThumbnail = false
+
+
+# Comments system
+[params.comments]
+  system = "giscus"
+
+  repo="jundalisay/hoasen"
+  repo-id="R_kgDOKk--Tw"
+  category="General"
+  category-id="DIC_kwDOKk--T84CacDf"
+  mapping="pathname"
+  strict="0"
+  reactions-enabled="1"
+  emit-metadata="0"
+  input-position="bottom"
+  theme="preferred_color_scheme"
+  lang="en"
+  crossorigin="anonymous"
+
+  # Options for utterances, exclude hyphens
+  # repo = ""
+  # issueterm = ""
+  # theme = ""
+
+[params.homepage.social]
+  # Global params common for both languages
+  # title = "Follow or Support Us!"
+  # description = "We're building a new science and new systems for a better reality"
+
+  # [[params.homepage.social.icons]]
+  #   website = "twitter"
+  #   url = "https://twitter.com/pantrypoints"
+  # [[params.homepage.social.icons]]
+  #   website = "youtube"
+  #   url = "https://www.youtube.com/@pantrypoints"
+  # [[params.homepage.social.icons]]
+  #   website = "instagram"
+  #   link = "https://instagram.com"
+  [[params.homepage.social.icons]]
+    website = "facebook"
+    url = "https://www.facebook.com/yogahoasen/"
+  # [[params.homepage.social.icons]]
+  #   website = "behance"
+  #   link = "https://behance.net"
+
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
