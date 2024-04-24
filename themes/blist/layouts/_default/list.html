@@ -90,7 +90,7 @@
                         </div>
 
                         <p class="text-base dark:text-white text-gray-800 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                          {{ .Params.description }}
+                          {{ .Params.description | markdownify }}
                         </p>
 
                     </div>

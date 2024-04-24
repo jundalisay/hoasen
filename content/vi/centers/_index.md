@@ -1,5 +1,5 @@
 ---
-title: "Pantrypoints Services"
-description: "Here are the Services that Pantrypoints facilitates"
+title: "Yoga Centers"
+description: "Here are the Yoga Centers that teach Tantra Yoga"
 image: "/photos/code.jpg"
 ---

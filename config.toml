@@ -170,7 +170,18 @@ paginate = 12
       wow = "Cải Thiện Sức Khỏe"
       # youtube = "fC9dH2Du0sM"
 
-
+ [languages.vi.params.tricon3]
+      title = "Locations"
+      sub = "Here are affiliated yoga centers."
+    [languages.vi.params.tricon3.items.a]
+      img = "/flags/vn.png"
+      title = "Yoga Hoa Sen"
+      sub = "34 Phan Liêm, Phường Đa Kao, Quận 1 <br><i>Đt: 3820 3457 – Cô Châu: 0918 873 316</i>"
+    [languages.vi.params.tricon3.items.b]
+      img = "/flags/vn.png"
+      title = "Viện Y Học Dược Dân Tộc"
+      sub = "273 Nguyễn Văn Trỗi, Quận Phú Nhuận <br><i>Cô Tám: 3820 1196, Cô Khanh: 0903 004 984, Thầy Khang: 0913 684 963</i>"
+      
 # Thăng Hoa Tâm Linh: This translates to "Enhancing Spirituality" and captures the essence of elevating one's spiritual connection.
 
 # Cải Thiện Sức Khỏe: This translates to "Improving Health" and is a clear and concise way to convey the health benefits.

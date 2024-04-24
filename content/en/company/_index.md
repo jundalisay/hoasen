@@ -2,7 +2,7 @@
 title: About
 wow: Us
 banner: "/photos/coop.jpg"
-description: "Yoga Hoa Sen is a yoga center in HCMC"
+description: "Yoga Hoa Sen is a yoga center in HCMC. Check out our [Facebook page](https://web.facebook.com/lotusyogavn)"
 youtube: "326hI7UPX4"
 
 

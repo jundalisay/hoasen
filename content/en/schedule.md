@@ -1,8 +1,10 @@
 ---
-title: "2017 Schedule"
-description: "Here is our Schedule for 2017"
-date: 2017-03-15
-lastmod: 2024-03-15
+title: "2023 Schedule"
+description: "Here is our Schedule for 2024"
+date: 2023-07-15
+lastmod: 2023-07-15
+# date: 2017-03-15
+# lastmod: 2024-03-15
 image: /img/matayogui.jpg 
 # categories: ["Websites"]
 # tags: ["Bootstrap"]
@@ -13,20 +15,51 @@ image: /img/matayogui.jpg
 
 
 
-Link | Description | Date
---- | --- | ---
-[angelshelter.shop](https://angelshelter.shop) &nbsp; &nbsp; &nbsp; | An animal shelter | April 11, 2022
-[matayog.com](https://matayog.com) &nbsp; &nbsp; &nbsp; | A yoga hostel near the airport | April 18, 2022
+Class | Start Date | Day | Time | Room | Fee
+--- | --- | --- | --- | --- | ---
+Basic T09/23 | Sept 5, 2023 | Tuesday & Thursday | 6:00 PM - 7:30 PM | Yoga Room | 930k/course/2 months (includes tuition, 1 security card, and 2 basic yoga books)
+Basic T09/23 | Sept 5, 2023 | Tuesday & Thursday | 6:00 PM - 7:30 PM | Yoga Room | 800k/course/2 months (includes tuition, pay an additional 50k/security card if needed) 
 
 
-LỊCH HỌC LỚP YOGA THÁNG 12/2017
+## Target Students
+
+This class is for both men and women, from 18 to 70 years old. It is designed for beginners who have no prior yoga experience, or those who want to develop a foundation in yoga and a home practice routine to improve their health and well-being.
+
+## Payment
+
+Tuition can be paid at the beginning of class. New students should attend the first class and the second Monday class to learn diaphragmatic breathing. Students will not be accepted after the third class. Please wear loose clothing and bring a yoga mat (you can purchase your own or register with Ms. Khanh before class).
+
+## Registration
+
+Contact Ms. Khanh by phone or Zalo: 0903.004.984.
+
+## Description
+
+There is a basic level class (every 2 months on Tuesdays & Thursdays) for beginners and a regular class (accepts new students at the beginning of the month on Mondays & Wednesdays) for students who have completed the basic yoga course at Viện Y Dược học dân tộc. Each course includes 16 classes (2 months), twice a week. 
+
+Students come to class to review old poses and learn new poses to practice at home for the remaining 5 days of the week. In addition to asanas (yoga postures), students will also be guided on how to develop healthy habits and learn about topics to improve their mental well-being. There will also be instruction on meditation (after the course) for those who practice regularly.
+
+
+## Benefits
+
+Yoga helps to improve flexibility, increase strength, prevent disease, and reduce stress, leading to a more positive and peaceful state of mind. Regularly practicing asanas can help to gradually reduce and eliminate common ailments such as back pain, arthritis, joint pain, aches and pains, fatigue, insomnia, headaches, nervous system problems, and cardiovascular problems. 
+
+The “relaxation,” “corpse,” and “lotus” poses are practiced regularly to promote a love of life, a desire to serve, and a peaceful mind.
+
+
+
+NAMASKAR! (I salute the Divine Consciousness within you with all the beauty of my soul and all the love of my heart).
+
+
+
+<!-- LỊCH HỌC LỚP YOGA THÁNG 12/2017
 
 Address: Lầu 2, Viện Y Dược Học Dân Tộc, 273 Nguyễn Văn Trỗi, Quận Phú Nhuận, Tp. HCM
 
 
 Topic | Day | Time | Day | Venue | Fee
 --- | --- | --- | --- | --- | --- 
-
+ -->
 
 <!-- 
 
